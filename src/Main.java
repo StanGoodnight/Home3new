@@ -13,7 +13,6 @@ float e = 22.3f;
 System.out.println("e = " + e);
 double f = 74.3679334340304;
 System.out.println("f = " + f);
-
 float g = 27.12f;
 System.out.println("g = " + g);
 long h = 987678965549L;
